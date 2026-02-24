@@ -1,2 +1,2 @@
-Simple Transformer Machine Translation
+# Simple Transformer Machine Translation
 A minimal implementation of a Transformer model for machine translation. Built with PyTorch.
